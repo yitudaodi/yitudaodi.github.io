@@ -1,3 +1,4 @@
 markdown: rdiscount
 pygments: true
 baseurl: http://blog.1m79.com/
+gems: [jekyll-test-plugin, jekyll-jsonify, jekyll-assets]
